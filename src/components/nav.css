@@ -1,0 +1,41 @@
+div{
+    background-color: black;
+    color: aliceblue;
+}
+
+.nav-main{
+    display: flex;
+    justify-content: space-around;
+    height: 50px;
+    
+    align-items: center;
+}
+ul{
+    display: flex;
+    gap: 2rem;
+    
+    
+}
+li{
+    display: flex;
+    
+}
+.nav-ul{
+    display: flex;
+}
+button{
+    background-color:greenyellow;
+    height: 30px;
+    width: 100px;
+    border: none;
+    border-radius: 5px;
+
+}
+
+@media only screen and (max-width: 768px) {
+
+    ul li {
+
+        display: none
+    }
+}

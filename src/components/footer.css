@@ -1,0 +1,14 @@
+.footer-main{
+    background-color: greenyellow;
+    color: black;
+    height: 50px;
+    display: flex;
+    padding-left: 20px;
+    /* width: ; */
+    /* gap: 30px; */
+    align-items: center;
+    justify-content: space-evenly
+}
+.footer-main{
+    font-size:xx-small
+}
